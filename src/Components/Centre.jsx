@@ -5,7 +5,7 @@ function Centre() {
   return (
     <div className="py-4 px-3 h-full w-full">
       <Navbar/>
-      <div className="h-full w-full py-6 flex flex-wrap justify-center gap-2 overflow-auto">
+      <div className="h-full w-full py-6 flex flex-wrap justify-center gap-4 overflow-auto">
         <Items/>
       </div>
     </div>
