@@ -19,7 +19,7 @@ const Player = () => {
       </div>
       <hr className="my-2" />
       <div className="queue h-full mt-4">
-        <h1 className="ml-4">Next in Oueue...</h1>
+        <h1 className="ml-4">Next in Queue...</h1>
         <div className="flex justify-start items-center gap-3 ml-3 my-2">
           <PiQueue className="text-2xl"/>
           <h1>Ganpati bappa moriya</h1>
