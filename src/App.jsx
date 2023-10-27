@@ -1,6 +1,7 @@
 import Centre from "./Components/Centre";
 import Dashbord from "./Components/Dashbord";
 import Player from "./Components/Player";
+import SpotifySearch from "./Components/SpotifySearch";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Dashbord/>
       <Centre/>
       <Player/>
+      <SpotifySearch/>
       </div>
     </div>
   );
